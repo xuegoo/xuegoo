@@ -7,4 +7,4 @@ http://www.xuegoo.com
 html5+real time+mycraft
 # together.js
 first website
-http://www.jnschool.com/html/lessons/math/
+http://www.jnschool.com/html/lessons
