@@ -8,3 +8,4 @@ html5+real time+mycraft
 # together.js
 first website
 http://www.jnschool.com/html/lessons
+http://xuegoo.github.io
