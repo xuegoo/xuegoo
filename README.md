@@ -14,6 +14,10 @@ http://www.xuegoo.com
 html5+real time+mycraft
 # together.js
 ![立人创客教育模型探索](images/model.png)
-
-
+![立人创客教育模型探索](images/love.png)
+![立人创客教育模型探索](images/teacher.png)
+![立人创客教育模型探索](images/culture.png)
 https://xuegoo.github.io
+<video id="video" controls="" preload="none" poster="images/ad.png">
+<source id="mp4" src="ad.mp4" type="video/mp4">
+</video>
