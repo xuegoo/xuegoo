@@ -13,7 +13,7 @@ http://www.xuegoo.com
 # scratch 
 html5+real time+mycraft
 # together.js
-![Alt text](图片链接 "model.png")
+![立人创客教育模型探索](model.png"立人创客教育模型探索")
 
 
 https://xuegoo.github.io
